@@ -30,7 +30,9 @@ Source: India Data Portal
 - Crop-wise Analysis
 - Interactive Filters & Slicers
 
-  ![Dashboard Screenshot](Dashboard.png)
+  ![Dashboard Screenshot](<img width="1642" height="1322" alt="Dashboard" src="https://github.com/user-attachments/assets/e6c47216-2d35-4c73-bdfa-d0ce759069df" />)
+
+
  
 
 
